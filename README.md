@@ -71,4 +71,4 @@ rouge = evaluate_rouge("the cat is on the mat", "the cat is on the mat")
 - Improvements, bug fixes, and enhanced examples are welcome. Open a PR with changes.
 
 ## License
-This repository does not include a license file. Add a `LICENSE` file if you want to specify terms for reuse.
+Apache 2.0
